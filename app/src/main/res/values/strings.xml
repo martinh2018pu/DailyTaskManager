@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мениджър на дневни задачи</string>
+
+    <string name="previousDateBtn">&lt;</string>
+    <string name="nextDateBtn">&gt;</string>
+
+    <string name="goToMonthLabelTxt">Отиди на месец</string>
+    <string name="createTaskBtn">Добавяне на задача</string>
+
+    <string name="taskIdTxt">Идентификатор на задачата</string>
+    <string name="modifyTaskTitleTxt">Дневна задача</string>
+    <string name="taskDescriptionTxt">Описание на задачата…</string>
+    <string name="taskDateTxt">За дата… (дата/месец/година)</string>
+    <string name="saveTaskBtn">Запиши</string>
+    <string name="deleteTaskBtn">Изтрий</string>
+
+</resources>
